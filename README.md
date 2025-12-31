@@ -1,5 +1,5 @@
 # Bandit-34-levels
-# OverTheWire Bandit - My Learning Journey
+# OverTheWire Bandit - 
 
 ## About This Guide
 This repository documents my personal experience solving the Bandit wargame challenges. Each level includes my approach, the challenges I faced, and what I learned.
